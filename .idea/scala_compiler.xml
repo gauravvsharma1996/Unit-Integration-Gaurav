@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="Shubham,UT,UT_IT,Unit-Intigration-Gaurav" />
+    <profile name="sbt 1" modules="Gaurav,Shubham,UT,UT_IT,Unit-Intigration-Gaurav" />
   </component>
 </project>

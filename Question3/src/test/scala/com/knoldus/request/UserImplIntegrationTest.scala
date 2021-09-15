@@ -35,9 +35,9 @@ class UserImplIntegrationTest extends AnyFlatSpec {
   }
 
   "User" should "be created" in {
-    val ShubhamUser: User = User("Shubham","Gupta",23,"Knoldus","shubham.gupta@knoldus.com")
+    val GauravUser: User = User("Gaurav","Sharma",23,"Knoldus","gaurav.sharma@knoldus.com")
 
-    val result = userImpl.createUser(ShubhamUser)
+    val result = userImpl.createUser(GauravUser)
     assert(!result.isEmpty)
   }
 
